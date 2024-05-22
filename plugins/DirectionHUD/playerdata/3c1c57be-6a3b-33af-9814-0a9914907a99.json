@@ -1,0 +1,89 @@
+{
+  "hud": {
+    "secondary": "#ffffff-false-false-false",
+    "module": {
+      "distance": true,
+      "coordinates": true,
+      "destination": true,
+      "weather": true,
+      "angle": false,
+      "time": true,
+      "tracking": false,
+      "speed": false,
+      "direction": true
+    },
+    "setting": {
+      "bossbar": {
+        "color": "white",
+        "distance": true,
+        "distance_max": 0.0
+      },
+      "module": {
+        "speed_3d": true,
+        "tracking_type": "simple",
+        "tracking_target": "player",
+        "speed_pattern": "0.00",
+        "angle_display": "both",
+        "tracking_hybrid": true,
+        "time_24hr": false
+      },
+      "state": true,
+      "type": "actionbar"
+    },
+    "order": [
+      "coordinates",
+      "distance",
+      "tracking",
+      "destination",
+      "direction",
+      "time",
+      "weather",
+      "speed",
+      "angle"
+    ],
+    "primary": "#ff8e16-false-false-false"
+  },
+  "name": "RizukiiChan",
+  "destination": {
+    "saved": [
+      [
+        "VILLAGE1",
+        "[264, 87, 853, overworld]",
+        "#ffffff"
+      ],
+      [
+        "RUMAH",
+        "[748, 81, 628, overworld]",
+        "#ffffff"
+      ]
+    ],
+    "dest": "null",
+    "lastdeath": [
+      "[746, 81, 629, overworld]",
+      "[-127, 70, -962, overworld]"
+    ],
+    "setting": {
+      "ylevel": false,
+      "autoconvert": false,
+      "features": {
+        "track_request_mode": "request",
+        "track": true,
+        "send": true,
+        "lastdeath": true
+      },
+      "autoclear": false,
+      "autoclear_rad": 2.0,
+      "particles": {
+        "line": true,
+        "tracking_color": "#ff6426",
+        "dest_color": "#ff8e16",
+        "dest": true,
+        "tracking": true,
+        "line_color": "#42a0ff"
+      }
+    }
+  },
+  "version": 1.72,
+  "inbox": [],
+  "color_presets": []
+}

@@ -1,0 +1,98 @@
+[11:19:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:19:53] [ServerMain/INFO]: Loaded 1174 recipes
+[11:19:53] [ServerMain/INFO]: Loaded 1271 advancements
+[11:19:54] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:19:54] [Server thread/INFO]: Loading properties
+[11:19:54] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
+[11:19:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:19:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:19:55] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[11:19:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[11:19:55] [Server thread/INFO]: Default game type: SURVIVAL
+[11:19:55] [Server thread/INFO]: Generating keypair
+[11:19:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:19:55] [Server thread/INFO]: Using default channel type
+[11:19:55] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[11:19:55] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[11:19:55] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.10.2
+[11:19:55] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.2 is now loaded. Registering protocol transformers and injecting...
+[11:19:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[11:19:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[11:19:56] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[11:19:56] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[11:19:56] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.13
+[11:19:56] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.10.2
+[11:19:56] [Server thread/INFO]: [DirectionHUD] Loading server plugin DirectionHUD v1.3.9+1.18-1.20.4
+[11:19:56] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.0.1
+[11:19:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:19:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:19:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:19:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:19:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:19:56] [Server thread/INFO]: Preparing level "world"
+[11:19:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:19:58] [Server thread/INFO]: Time elapsed: 889 ms
+[11:19:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:19:58] [Server thread/INFO]: Time elapsed: 31 ms
+[11:19:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:19:58] [Server thread/INFO]: Time elapsed: 57 ms
+[11:19:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.2
+[11:19:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[11:19:58] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.13
+[11:19:58] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.4-R0.1
+[11:19:58] [Server thread/INFO]: [voicechat] Compatibility version 18
+[11:19:58] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[11:19:58] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[11:19:58] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.10.2
+[11:19:58] [Server thread/INFO]: [DirectionHUD] Enabling DirectionHUD v1.3.9+1.18-1.20.4
+[11:19:59] [Server thread/INFO]: [DirectionHUD] Started server!
+[11:19:59] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
+[11:19:59] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R3
+[11:19:59] [Server thread/INFO]: Starting GS4 status listener
+[11:19:59] [Server thread/INFO]: Thread Query Listener started
+[11:19:59] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[11:19:59] [Server thread/INFO]: Running delayed init tasks
+[11:19:59] [Server thread/INFO]: Done (5.090s)! For help, type "help"
+[11:19:59] [Server thread/INFO]: Timings Reset
+[11:19:59] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[11:19:59] [Server thread/INFO]: [voicechat] Loading plugins
+[11:19:59] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[11:19:59] [Server thread/INFO]: [voicechat] Initializing plugins
+[11:19:59] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[11:19:59] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[11:19:59] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[11:32:06] [Server thread/INFO]: Stopping the server
+[11:32:06] [Server thread/INFO]: Stopping server
+[11:32:06] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.0.1
+[11:32:07] [Server thread/INFO]: [DirectionHUD] Disabling DirectionHUD v1.3.9+1.18-1.20.4
+[11:32:07] [Server thread/INFO]: [DirectionHUD] Safely shutdown!
+[11:32:07] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.10.2
+[11:32:07] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.13
+[11:32:07] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.10.2
+[11:32:07] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[11:32:07] [Server thread/INFO]: Saving players
+[11:32:07] [Server thread/INFO]: Saving worlds
+[11:32:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 59 entity chunks, 0 poi chunks in world 'world' in 0,01s
+[11:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:32:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world_nether' in 0,00s
+[11:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:32:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[11:32:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
+[11:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:32:07] [Server thread/INFO]: Flushing Chunk IO
+[11:32:07] [Server thread/INFO]: Closing Thread Pool
+[11:32:07] [Server thread/INFO]: Closing Server
